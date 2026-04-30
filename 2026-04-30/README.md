@@ -1,4 +1,4 @@
-## HTML
+# HTML
 - HTML is termed as Hyper Text Markup Language.
 - HTML is used for creating web pages.
 - HTML is a markup language which is being used for creating the structure of a webpage.
@@ -36,6 +36,49 @@ Attributes are used for providing additional information about HTML elements. Al
 e.g. Name='value'
 
 
-## Headings
+### Headings
 
-HTML headings 
+HTML headings are titles or subtitles that we want to display on a webpage. HTML headings are defined with ```<h1></h1>``` to ```<h6></h6>``` tags.
+
+### Paragraphs
+
+A paragraph always starts on a new line, and is usually a block of text. Paragraph automatically removes extra space and lines when the page is displayed.
+
+- ```<pre></pre>``` is used for preformatted text.
+
+- ```<hr>``` is used for horizontal lines. It is an empty tag that's why end tag is not required.
+
+- ```<br>``` is used for line breaks. It is an empty tag that's why end tag is not required.
+
+- ```&nbsp;``` is used for adding single space in between paragraphs.
+
+- ```&emsp;``` is used for tag space in between paragraphs.
+
+### Styles
+
+The HTML **style** attribute is used to add a style to an element, such as color, font, size & more.
+
+### Formatting
+
+HTML contains several elements for defining text with a special meaning.
+
+- ```<b>```: Bold
+- ```<i>```: Italic
+- ```<u>```: Underline
+- ```<q>```: Quotation
+- ```<blockquote>```: Block Quote
+- ```<em>```: Emphasis
+- ```<mark>```: Highlighted Text
+- ```<small>```: Small Text
+- ```<del>```: Delete Text
+- ```<ins>```: Insert Text
+- ```<sub>```: Subscript
+- ```<sup>```: Superscript
+- ```<strong>```: Important Text
+- ```<abbr>```: Abbreviation
+- ```<cite>```: Title of creative work
+- ```<address>```: Address
+- ```<bdo>```: Bi-Directional Overwrite
+
+### Comments
+In HTML, we write comments in between ```<!--Comment-->```
